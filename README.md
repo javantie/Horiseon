@@ -8,7 +8,7 @@ A website that offers marketing services.
 * CSS
 
 ## Website
-https://lernantino.github.io/Horiseon/
+https://javantie.github.io/Horiseon/
 
 ## Contribution
 Made with ❤️ by [your name]
