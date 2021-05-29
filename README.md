@@ -11,4 +11,4 @@ A website that offers marketing services.
 https://javantie.github.io/Horiseon/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Akeem Clarke
